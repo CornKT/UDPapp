@@ -1,0 +1,11 @@
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\bin\Debug\lab03.exe.config
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\bin\Debug\lab03.exe
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\bin\Debug\lab03.pdb
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.csproj.AssemblyReference.cache
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.csproj.SuggestedBindingRedirects.cache
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.MainForm.resources
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.Properties.Resources.resources
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.csproj.GenerateResource.cache
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.exe
+D:\E\Learning\DH\HK4\LTM\Thực Hành\Lab03\lab03\lab03\obj\Debug\lab03.pdb
